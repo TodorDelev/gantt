@@ -1,3 +1,4 @@
+// Frappe-Gantt v0.6.0
 var Gantt = (function () {
 'use strict';
 
